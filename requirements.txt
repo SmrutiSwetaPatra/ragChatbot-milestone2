@@ -6,3 +6,5 @@ streamlit
 beautifulsoup4
 sentence-transformers
 python-dotenv
+fastapi
+uvicorn
